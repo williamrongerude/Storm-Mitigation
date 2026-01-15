@@ -8,7 +8,7 @@ A machine learning model that estimates property damage from natural disasters.
 
 Using 20,000+ rows of raw NOAA storm data, we use various pre-processing and curation decisions to achieve ~70% R^2 accuracy in testing.
 
-This model/processing pipeline will likely be continuously improved Expect updates here and greater R^2 scores.
+This model/processing pipeline will likely be continuously improved. Expect future updates and greater R^2 scores!
 
 https://stormprediction.pages.dev
 
