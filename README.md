@@ -2,9 +2,9 @@
 
 ![](assets/test1.png)
 
-A machine learning model that predicts property damage from natural disasters.
+A machine learning model that predicts property damage from natural disasters. Using NOAA storm data, we use various pre-processing and curation decisions to achieve ~70% R^2 accuracy in testing.
 
-https://stormprediction.onrender.com/
+https://stormprediction.fly.dev/
 
 ## Features
 - Predicts property damage in USD based on storm details
