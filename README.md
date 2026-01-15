@@ -28,4 +28,4 @@ https://stormprediction.pages.dev
 
 Model developed by William Rongerude, Ming Do, and others who helped us think and improve.
 
-Model trained using raw data from NOAA Storm Events Database
+Model trained using raw data from NOAA Storm Events Database.
