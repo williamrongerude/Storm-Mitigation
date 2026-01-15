@@ -16,8 +16,8 @@ https://stormprediction.pages.dev
 
 ## Details
 - XGBoost Regressor
-- R^2 Score: 70%
-- Data Source: NOAA Storm Events Database
+- R^2 Score: ~70%
+- Data from NOAA Storm Events Database
 - Range: $0-$50,000
 
 ![](assets/test2.png)
